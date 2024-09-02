@@ -52,7 +52,7 @@ everest_config.yml::
 
 ``initial_guess``: the initial value for the control variables
 
-``min``, ``max`` and ``initial_guess`` can also be defined for each control individually:
+``min``, ``max`` and ``initial_guess`` can also be defined for each control individually::
 
     controls:
       -
